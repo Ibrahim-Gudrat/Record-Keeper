@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Record Keeper</string>
+    <string name="cycling">C Y C L I N G</string>
+    <string name="running">R U N N I N G</string>
+    <string name="clear_running_records">Clear Running Records</string>
+    <string name="clear_cycling_records">Clear Cycling Records</string>
+    <string name="clear_all_records">Clear All Records</string>
+</resources>
